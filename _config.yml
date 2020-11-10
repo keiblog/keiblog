@@ -3,7 +3,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Will something change?
 permalink: ':title/'
 baseurl: '' # the subpath of your site, e.g. /blog
-url: "http://keiblog.space"
+host: "http://keiblog.space",
+url: "https://keiblog.github.io",
 site-twitter: #if your site has a twitter account, enter it here
 root: /
 # Author Settings
