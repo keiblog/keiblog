@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Answer
-date: 2020-11-10 00:08:00 +0700
+date: 2020-11-09 00:08:00 +0700
 description: Có bao giờ bạn từng nghi ngờ chính mình, tự ti về bản thân, chán ghét mình chưa?
 img: # Add image post (optional)
 tags: [Da nang, raining day 🌧️, myself] # add tag
@@ -44,8 +44,11 @@ Khi bạn ghét bản thân, cảm xúc tiêu cực sẽ luôn nằm trong ngư�
 Cho đến khi, mình được nghe từ đâu đó:
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I'm the one I should love in this world. The shining me, the precious soul of mine.`
-<br><br>
+```
+I'm the one I should love in this world.
+The shining me, the precious soul of mine.
+```
+<br>
 
 Dù bản thân mình có tồi tệ đến đâu, thì đó cũng là chính mình.
 <br>
