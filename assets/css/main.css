@@ -212,7 +212,7 @@ audio:not([controls]) {
 img {
   display: block;
   margin: auto auto;
-  width:50%; /* you can use % */
+  width: 70%; /* you can use % */
   height: auto;
 }
 
@@ -939,6 +939,10 @@ table tfoot td {
 }
 
 p.left {
+  text-align: left;
+}
+
+p.right {
   text-align: right;
 }
 
