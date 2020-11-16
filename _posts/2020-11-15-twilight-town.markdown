@@ -45,6 +45,3 @@ Ai biết được rằng, đến một lúc nào đó, mình phải cảm ơn/x
 <p class="center">
 Hoi An, Quang Nam, Vietnam
 </p>
-<p class="center">
-Cảm ơn cậu, đã dạy mình biết yêu một người là như thế nào.
-</p>
