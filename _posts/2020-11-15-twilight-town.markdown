@@ -13,7 +13,7 @@ Với con người hay bắt đầu từ tờ mờ sáng, về nhà vào chạm 
 Đó là mình của 3 năm trước.
 
 <br>
-![Dusk1](/assets/img/dusk-1.jpeg)
+![Dusk1](/assets/img/dusk-1.jpeg#w90)
 <p class="center">
 Dazaifu, Fukuoka, Japan
 </p>
@@ -41,7 +41,7 @@ Mình yêu Đà Nẵng, từ con người, đến những góc phố, buổi chi
 <br>
 Ai biết được rằng, đến một lúc nào đó, mình phải cảm ơn/xin lỗi những con người kia, để có thể tìm thấy mảnh ghép thực sự với chính mình.
 
-![Dusk2](/assets/img/dusk-2.jpg)
+![Dusk2](/assets/img/dusk-2.jpg#w100)
 <p class="center">
 Hoi An, Quang Nam, Vietnam
 </p>
