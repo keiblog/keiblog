@@ -48,5 +48,4 @@ Hoi An, Quang Nam, Vietnam
 
 <script type="text/javascript">
   $('meta[property=og\\:image]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/dusk-2.jpg");
-  $('meta[name=twitter\\:image\\:src]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/dusk-2.jpg");
 </script>>

@@ -31,5 +31,4 @@ Một chút Gin Tonic, Vitamin cuối ngày
 
 <script type="text/javascript">
   $('meta[property=og\\:image]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/gintonic.png");
-  $('meta[name=twitter\\:image\\:src]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/gintonic.png");
 </script>>
