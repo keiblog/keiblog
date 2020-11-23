@@ -1,6 +1,6 @@
 title: Epiphany
 description: > # this means to ignore newlines until "baseurl:"
-  Will something change?
+  Những lời động viên sáo rỗng, mình xin không nói nhé. Để mình kể cho bạn câu chuyện của mình.
 permalink: ':title/'
 baseurl: '' # the subpath of your site, e.g. /blog
 host: "http://keiblog.space"
