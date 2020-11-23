@@ -50,4 +50,5 @@ Nguyện cho cậu một đời nở rộ
 
 <script type="text/javascript">
   $('meta[property=og\\:image]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/winter-flower.jpg");
+  $('meta[name=twitter\\:image\\:src]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/winter-flower.jpg");
 </script>>

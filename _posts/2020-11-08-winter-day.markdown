@@ -26,5 +26,10 @@ Có lẽ là, vì mình không muốn phải làm tổn thương thêm ai nữa.
 <br>
 ![Gin Tonic](/assets/img/gintonic.png)
 <p class="center">
-Một chút Gin Tonic, Vitamin cuối ngày của mình 😋
+Một chút Gin Tonic, Vitamin cuối ngày.
 </p>
+
+<script type="text/javascript">
+  $('meta[property=og\\:image]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/gintonic.png");
+  $('meta[name=twitter\\:image\\:src]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/gintonic.png");
+</script>>
