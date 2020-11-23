@@ -26,7 +26,7 @@ Có lẽ là, vì mình không muốn phải làm tổn thương thêm ai nữa.
 <br>
 ![Gin Tonic](/assets/img/gintonic.png)
 <p class="center">
-Một chút Gin Tonic, Vitamin cuối ngày.
+Một chút Gin Tonic, Vitamin cuối ngày
 </p>
 
 <script type="text/javascript">
