@@ -75,7 +75,7 @@ Love yourself!
 Còn bạn thế nào? 😊
 <br><br>
 
-![Answer](/assets/img/answer.jpg)
+![Answer](/assets/img/answer.jpg#w90)
 <p class="center">
 Meet your true self that you hid inside the storm 🌸
 </p>
