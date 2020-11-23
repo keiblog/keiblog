@@ -83,5 +83,4 @@ Meet your true self that you hid inside the storm 🌸
 
 <script type="text/javascript">
   $('meta[property=og\\:image]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/answer.jpg");
-  $('meta[name=twitter\\:image\\:src]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/answer.jpg");
 </script>>
