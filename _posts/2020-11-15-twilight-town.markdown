@@ -45,3 +45,8 @@ Ai biết được rằng, đến một lúc nào đó, mình phải cảm ơn/x
 <p class="center">
 Hoi An, Quang Nam, Vietnam
 </p>
+
+<script type="text/javascript">
+  $('meta[property=og\\:image]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/dusk-2.jpg");
+  $('meta[name=twitter\\:image\\:src]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/dusk-2.jpg");
+</script>>
