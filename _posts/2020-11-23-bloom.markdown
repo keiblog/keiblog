@@ -3,7 +3,7 @@ layout: post
 title: "Bloom"
 date: 2020-11-23 21:30:00 +0700
 description: 'Dưới vết chân hằn sâu trên tuyết, giữa tiết trời giá lạnh, độc một bông hoa nở rộ.'
-img:  # Add image post (optional)
+img: winter-flower.jpg # Add image post (optional)
 tags: [Da nang, winter day ❄️, Juniper] # add tag
 ---
 "Dưới vết chân hằn sâu trên tuyết, giữa tiết trời giá lạnh, độc một bông hoa nở rộ. 
@@ -47,7 +47,3 @@ Chúng ta không hề nhỏ bé, mỗi chúng ta là một vũ trụ vi mô, đ�
 <p class="center">
 Nguyện cho cậu một đời nở rộ
 </p>
-
-<script type="text/javascript">
-  $('meta[property=og\\:image]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/winter-flower.jpg");
-</script>>
