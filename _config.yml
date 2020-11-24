@@ -9,6 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 root: /
 # Author Settings
 author: Kei # add your name
+og-img: ogimage.jpg # add your photo
 author-img: kei.jpg # add your photo
 about-author: "Is it you who changed <br> or is it me?" # add description
 social-askfm: Kirikuro # add your Ask-fm handle
