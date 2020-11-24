@@ -3,7 +3,7 @@ layout: post
 title: Twilight Town
 date: 2020-11-15 21:39:00 +0700
 description: Bước xuống xe bus sau 12 tiếng làm việc liên tục, chậm rãi tiến về ngôi nhà nằm ở cuối phố, nhìn ra ban công sau khi vừa tra chìa khoá vào ổ, tôi đã nhận ra vì sao mình lại yêu Hoàng hôn đến vậy.
-img: # Add image post (optional)
+img: dusk-2.jpg # Add image post (optional)
 tags: [Da nang, storm day ⛈️, myself] # add tag
 ---
 `2018-11-10 17:30` &nbsp;&nbsp; Bước xuống xe bus sau 12 tiếng làm việc liên tục, chậm rãi tiến về ngôi nhà nằm ở cuối phố, nhìn ra ban công sau khi vừa tra chìa khoá vào ổ, tôi đã nhận ra vì sao mình lại yêu **Hoàng hôn** đến vậy.
@@ -45,7 +45,3 @@ Ai biết được rằng, đến một lúc nào đó, mình phải cảm ơn/x
 <p class="center">
 Hoi An, Quang Nam, Vietnam
 </p>
-
-<script type="text/javascript">
-  $('meta[property=og\\:image]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/dusk-2.jpg");
-</script>>

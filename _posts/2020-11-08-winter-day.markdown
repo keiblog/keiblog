@@ -3,7 +3,7 @@ layout: post
 title: "Winter day"
 date: 2020-11-08 11:22:00 +0700
 description: 'Đang ngồi nghe nhạc sau khi vừa ngốn hết 3 video về khoá học AWS với cái bụng rỗng, nhìn lên trời nghĩ linh tinh và thế là 10 phút sau, blog này được ra đời. 🌸'
-img:  # Add image post (optional)
+img: gintonic.png # Add image post (optional)
 tags: [Da nang, raining day 🌧️, myself] # add tag
 ---
 `2020-11-08 11:25` &nbsp;&nbsp; Đang ngồi nghe nhạc sau khi vừa ngốn hết 3 video về khoá học AWS với cái bụng rỗng, nhìn lên trời nghĩ linh tinh và thế là 10 phút sau, blog này được ra đời. 🌸
@@ -28,7 +28,3 @@ Có lẽ là, vì mình không muốn phải làm tổn thương thêm ai nữa.
 <p class="center">
 Một chút Gin Tonic, Vitamin cuối ngày
 </p>
-
-<script type="text/javascript">
-  $('meta[property=og\\:image]').attr('content', "{{ site.url }}{{ site.baseurl }}/assets/img/gintonic.png");
-</script>>
