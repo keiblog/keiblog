@@ -2,7 +2,7 @@
 layout: post
 title: "Life goes on"
 date: 2020-11-29 20:22:00 +0700
-description: 'Coming Soon'
+description: 'Đưa tay ra khỏi chăn sau khi tiếng chuông báo thức đã reo được gần 3 phút, lấy một cốc nước sau khi rửa mặt, nhìn vào tấm lịch. Chợt nhận ra, chỉ còn 33 ngày nữa là sẽ sang năm 2021'
 img: life-goes-on2.png # Add image post (optional)
 tags: [Da nang, raining day 🌧️] # add tag
 ---
