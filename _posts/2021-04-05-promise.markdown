@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Promise"
+date: 2021-04-05 09:46:00 +0700
+description: 'Đặt 1 chân đến vạch đích, nhưng tại sao bản thân không thể nào thoã mãn được.'
+img: promise.jpg # Add image post (optional)
+tags: [Da nang, sunny day☀️, myself] # add tag
+---
+11 tháng 15 ngày...
+<br>
+
+Đặt 1 chân đến vạch đích, nhưng tại sao bản thân không thể nào thoã mãn được.
+<br>
+
+Dạo gần đây, mình lại băn khoăn về bản thân, về tương lai. Với nhiều người, ngành kỹ thuật chỉ cần ổn định là được. Nhưng với bản thân mình, mình lại bắt đầu thấy chán, dù vị trí hiện tại của mình không phải dành cho 1 cậu bé 24 tuổi.
+<br>
+
+Mình đã từng rất nhiều lần thoát khỏi vùng an toàn, may mắn là đến hiện tại, chưa có lựa chọn nào là sai lầm. Và tất nhiên ai cũng đều muốn Ổn định và bình yên, mình cũng vậy. 
+<br>
+
+Từ 6 năm trước, mình đã có 4 quyết định thay đổi tương lai. Và lần này có thể là lớn nhất. Từ bỏ tất cả những gì 6 năm trước, để theo đuổi đam mê của mình.
+<br>
+
+Và tất nhiên, với mình không có quyết định nào là bồng bột cả.
+<br>
+Khi suy nghĩ về dự định mới, mình luôn đặt ra 4 câu hỏi?
+<br>
+- Con đường bây giờ có phát triển trong tương lai không?
+- Dự định tiếp theo có tốt hơn hiện tại?
+- Trong 10 năm tiếp theo, liệu bản thân muốn gắn bó với tương lai nào nhất?
+<br>
+
+Và quan trọng nhất:
+- Bản thân có hài lòng về hiện tại chưa?
+<br>
+
+24 tuổi với bao nhiêu áp lực, mong là ở đâu đó sẽ tìm thấy an yên.
+
+<br>
+![Gin Tonic](/assets/img/promise2.jpeg)
+<p class="center">
+Life was a willow and it bent right to your wind
+</p>
