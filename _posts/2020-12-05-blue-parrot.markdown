@@ -44,7 +44,7 @@ I'm not afraid, because that's my existence
 ```
 Mình viết nên blog này, mục đích là để nhìn thấy bản thân thay đổi thế nào so với quá khứ. Và nếu như tìm thấy mảnh ghép của chính mình. Mình cũng không ngại ngần mà chia sẻ, để có thể cho cậu thấy, Lân của nhiều năm trước thế nào. 
 <br>
-Dù mình của hiện tại khá bướng bỉnh, xấu tính và hay hờn dỗi. Lúc nào cũng thích làm một mình, không muốn bày tỏ với ai. Nhưng lại thích được nghe cậu kể chuyện, cậu trêu đùa, ... 
+Dù mình của hiện tại khá bướng bỉnh, xấu tính và hay hờn dỗi. Lúc nào cũng thích làm một mình, không muốn bày tỏ với ai. Nhưng lại thích được nghe cậu kể chuyện, trêu đùa, ... 
 <br>
 Hy vọng là đến lúc đó, người mở lời là chính mình, chứ không phải cậu.
 <br>
