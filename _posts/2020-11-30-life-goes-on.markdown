@@ -36,7 +36,7 @@ Without a single apology
 Và bởi vì thời gian không biết nghỉ ngơi. Thay vì cứ chờ đợi đáp án, ta chỉ còn cách thay đổi để thích nghi với nó. Rất nhiều người đã nói với mình, năm nay là một năm bỏ đi. Nhưng mình thấy rằng, năm sau cũng chẳng khác năm nay là bao, và thay vì cứ ngồi mà trách mắn nó, thì nên học cách để vượt qua. 
 <br>
 <br>
-Dạo gần đây, mình trở thành người ưa phũ và thích độc thân một mình. Không phải là kén chọn hay gì đâu. Mình cảm giác rằng, từ khi nào trái tim mình không còn thể mở ra được nữa. Cuộc sống này còn quá nhiều điều phải lo, và mình cũng chưa sẵn sàng hay đủ trưởng thành cho một người bên cạnh. Mặc dù nhiều lúc có hơi cô đơn, nhưng may mắn là mình còn có nhiều người bên cạnh lúc mình cần. Đối với mình, chỉ cần thế là đủ rồi.
+Dạo gần đây, mình trở thành người ưa phũ và thích độc thân một mình. Không phải là kén chọn hay gì đâu. Cuộc sống này còn quá nhiều điều phải lo, và mình cũng chưa sẵn sàng hay đủ trưởng thành cho một người bên cạnh. Mặc dù nhiều lúc có hơi cô đơn, nhưng may mắn là mình còn có nhiều người bên cạnh lúc mình cần. Đối với mình, chỉ cần thế là đủ rồi.
 <br>
 
 Và mong rằng, 2021 sẽ mang lại hạnh phúc cho nhiều người. 

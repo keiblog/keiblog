@@ -43,5 +43,4 @@ Ai biết được rằng, đến một lúc nào đó, mình phải cảm ơn/x
 
 ![Dusk2](/assets/img/dusk-2.jpg#w100)
 <p class="center">
-Hoi An, Quang Nam, Vietnam
 </p>
