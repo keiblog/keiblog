@@ -10,7 +10,7 @@ tags: [Da nang, Biting wind 🎐] # add tag
 Cuộn tròn trong chăn, lôi chiếc Macbook được để sẵn lên giường ra, mình lại bắt đầu viết linh tinh về Noel của chính mình.
 <br>
 
-Không biết từ bao lâu rồi, năm nay mình mới được trải qua một mùa Noel của một mình đúng nghĩa.
+Năm nay mình lại được trải qua một mùa Noel một mình đúng nghĩa.
 <br>
 Và từ khi nào, việc dậy sớm với mình lại khó khăn đến vậy. 
 <br>
@@ -44,7 +44,7 @@ I'm not afraid, because that's my existence
 ```
 Mình viết nên blog này, mục đích là để nhìn thấy bản thân thay đổi thế nào so với quá khứ. Và nếu như tìm thấy mảnh ghép của chính mình. Mình cũng không ngại ngần mà chia sẻ, để có thể cho cậu thấy, Lân của nhiều năm trước thế nào. 
 <br>
-Dù mình của hiện tại khá bướng bỉnh, xấu tính và hay hờn dỗi. Lúc nào cũng thích làm một mình, không muốn bày tỏ với ai. Nhưng lại thích được nghe cậu kể chuyện, trêu đùa, ... 
+Dù mình của hiện tại khá bướng bỉnh, xấu tính và hay hờn dỗi. Lúc nào cũng thích làm một mình, rất sợ bày tỏ với người khác.
 <br>
 Hy vọng là đến lúc đó, người mở lời là chính mình, chứ không phải cậu.
 <br>
