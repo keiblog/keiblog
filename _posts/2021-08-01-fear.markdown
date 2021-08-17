@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fear"
-date: 2021-07-05 23:00:00 +0700
+date: 2021-08-01 23:00:00 +0700
 description: 'Con người cũng như Siêu Tân Tinh vậy. Khoảnh khắc bị huỷ diệt và dần biết mất, nó đột ngột phát sáng rực rỡ rồi mới tan biến.Nhưng cũng hình thành nên nguồn năng lượng để tạo nên những ngôi sao mới. Cuối cùng nó vẫn sẽ trở thành một ngôi sao khác trên bầu trời mà thôi.'
 img: fear1.jpeg # Add image post (optional)
 tags: [Da nang, Bad day, myself] # add tag
