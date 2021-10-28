@@ -38,13 +38,13 @@ Nhưng em à, em đã trở thành điều duy nhất mà anh muốn bảo vệ 
 <br>
 Vũ trụ này nghĩ rằng khó khăn thế này đã làm anh nản lòng rồi sao. Điều đó chỉ làm anh càng muốn giữ em vào lòng hơn mà thôi.
 <br>
-Dù có gặp bao nhiêu thử thách, dù anh có mất tất cả đi chăng nữa, thì em vẫn là điều duy nhất mà anh không bao giờ buông tay ra đâu em à.
+Dù có gặp bao nhiêu thử thách, dù anh có đánh đổi tất cả đi chăng nữa, thì em vẫn là điều duy nhất mà anh không bao giờ buông tay ra đâu em à.
 <br>
 <br>
 Anh tin là, sự cố gắng, niềm chân thành và tình yêu đủ lớn của anh sẽ chạm đến trái tim em, khẳng định với vũ trụ này anh thật sự xứng đáng với em.
 <br>
 <br>
-Honey à, đoạn đường sắp đến còn rất dài, đôi lúc anh có ngồi xuống nghỉ ngơi một chút. Nắm tay và bảo rằng "Em à, cho anh ở bên một chút được không", thì đừng ngại ngần mà ôm anh em nhé.
+Honey à, đoạn đường sắp đến còn rất dài, đôi lúc anh có ngồi xuống nghỉ ngơi một chút. Nắm tay và bảo rằng "Em à, cho anh ở bên một chút được không", thì đừng ngại ngần mà ôm anh em nhé. Chỉ một lát thôi, anh sẽ đứng dậy nắm tay em và tiếp tục bước về phía trước.
 <br>
 Nếu định mệnh là của vũ trụ sắp xếp thì vận mệnh này, anh sẽ thay đổi nó.
 <br>
