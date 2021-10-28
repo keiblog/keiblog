@@ -61,5 +61,5 @@ Nếu định mệnh là của vũ trụ sắp xếp thì vận mệnh này, anh
 <br>
 ![dtd](/assets/img/youniverse2.png#w50)
 <p class="center">
-You're my universer.
+You're my universe.
 </p>
