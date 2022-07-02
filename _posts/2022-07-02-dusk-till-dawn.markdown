@@ -32,7 +32,9 @@ Chỉ vì bàn tay vẫn ở đấy, nhưng không còn được nắm nữa.
 
 Điều mình buồn nhất, không phải là người ta bỏ đi, mà là đến cuối cùng, mình biết được họ không phải là người mà mình nên tin tưởng, người mà mình nghĩ chính là người được chọn. Điều đó làm mình thất vọng đến tột cùng.
 
-Nhưng mọi thứ đều có lý do của nó, nếu không phải họ, thì ở đâu đó trên thế giới này vẫn tồn tại một nửa của chính mình.
+Cuộc sống này, không ai nợ ai cả, nên khi được nhận tình cảm và nỗi lực từ ai đó, đừng nghĩ rằng người đó phải làm cho mình vì họ phải làm vậy. Ai cũng có nỗi khổ của mình, cuộc sống của riêng mình, để họ làm vậy thì họ phải đánh đổi rất nhiều thứ, từ mồ hôi, sức khoẻ, ... Tất cả những gì họ mong muốn là sự trân trọng và ghi nhận mà thôi.
+
+Nhưng mọi thứ đều có lý do của nó, nếu không phải người ấy, thì ở đâu đó trên thế giới này vẫn tồn tại một nửa của chính mình.
 
 Từ bỏ chưa bao giờ là cách giải quyết mọi vấn đề, nếu bạn chọn từ bỏ, thì sẽ chẳng có thứ gì đạt được cả, và tất cả rồi cũng chỉ là một vòng lặp bắt đầu từ số 0, nếu bạn đã quen dần với số 0 thì xin chúc mừng. Bạn chỉ mãi ở vạch xuất phát mà thôi.
 
