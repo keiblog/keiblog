@@ -30,22 +30,23 @@ Chỉ vì bàn tay vẫn ở đấy, nhưng không còn được nắm nữa.
 <br>
 <br>
 
-Điều mình buồn nhất, không phải là người ta bỏ đi, mà là đến cuối cùng, mình biết được họ không phải là người mà mình nên tin tưởng, người mà mình nghĩ chính là người được chọn. Điều đó làm mình thất vọng đến tột cùng.
+Điều mình buồn nhất, không phải là người ta bỏ đi, mà là đến cuối cùng, mình biết được họ không phải là người mà mình nghĩ chính là người được chọn, người mà mình đặt rất nhiều niềm tin. Điều đó làm mình buồn đến tột cùng.
 
 Cuộc sống này, không ai nợ ai cả, nên khi được nhận tình cảm và nỗi lực từ ai đó, đừng nghĩ rằng người đó phải làm cho mình vì họ phải làm vậy. Ai cũng có nỗi khổ của mình, cuộc sống của riêng mình, để họ làm vậy thì họ phải đánh đổi rất nhiều thứ, từ mồ hôi, sức khoẻ, ... Tất cả những gì họ mong muốn là sự trân trọng và ghi nhận mà thôi.
 
-Nhưng mọi thứ đều có lý do của nó, nếu không phải người ấy, thì ở đâu đó trên thế giới này vẫn tồn tại một nửa của chính mình.
+Có vẻ như, sự kết thúc không phải vì lỗi sai của ai cả. Chỉ vì cả hai không thể chia sẻ nỗi buồn với nhau nữa. Để đến một lúc, không ai có thể nói điều gì được cả. Và điều gì rồi cũng sẽ đến.
 
-Từ bỏ chưa bao giờ là cách giải quyết mọi vấn đề, nếu bạn chọn từ bỏ, thì sẽ chẳng có thứ gì đạt được cả, và tất cả rồi cũng chỉ là một vòng lặp bắt đầu từ số 0, nếu bạn đã quen dần với số 0 thì xin chúc mừng. Bạn chỉ mãi ở vạch xuất phát mà thôi.
+Nhưng mọi thứ đều có lý do của nó, nếu không phải người ấy, thì ở đâu đó trên thế giới này vẫn tồn tại một nửa của chính mình.
 
 Sau tất cả, điều duy nhất mình nhận ra là giá trị của bản thân mình,
 <br>
 Mình tự hào về những gì mình đã trải qua và làm được. Và từ bây giờ, mình vẫn tiếp tục bước trên con đường phát triển hết khả năng của mình,
-để có thể gặp được mảnh ghép thật sự xứng đáng với chính mình, thật sự trân trọng những gì mình có thể mang lại.
+để có thể gặp được mảnh ghép xứng đáng với chính mình, thật sự trân trọng những gì mình có thể mang lại, và có thể đồng cảm với bản thân mình.
 
-Tình cảm từ bản thân mình, mình sẽ không để nó nhận được những thứ nó không xứng đáng phải có.
 <br>
-**Những thứ nó đáng ra phải được trân trọng và thuộc về.**
+**Chỉ là một giây buông tay, giờ đành lỡ nhau cả một đời**
+<br>
+**Em có thêm một ánh sao, tôi mất bầu trời.**
 <br>
 <br>
 
