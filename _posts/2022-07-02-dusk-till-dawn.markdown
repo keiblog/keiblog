@@ -18,7 +18,7 @@ Lúc đó mình phải làm gì? Buồn, tự ti, xấu hổ,… Tất cả ch�
 <br>
 
 <h3>Bạn có bao giờ phạm sai lầm?</h3>
-Không chỉ trong công việc, trong cuộc sống này mỗi giây trôi qua đều có hàng tỉ biến số, bạn không thể biết được mọi chuyện xảy ra với chính mình là gì, bạn chỉ có thể giảm xác suất chúng đến một cách bất ngờ bằng cách lên kế hoạch và lường trước tất cả các biến số.
+Không chỉ ở công việc, trong cuộc sống này mỗi giây trôi qua đều có hàng tỉ biến số, bạn không thể biết được mọi chuyện tiếp theo xảy ra với mình là gì, bạn chỉ có thể giảm xác suất chúng đến một cách bất ngờ bằng cách lên kế hoạch và lường trước tất cả các biến số.
 <br>
 Vậy nên, phạm sai lầm `không phải là câu hỏi có hay không`, mà là `khi nào` và `mức độ của nó` lớn thế nào mà thôi.
 <br>
@@ -31,12 +31,14 @@ Không có gì chắc chắn bạn sẽ làm mọi thứ luôn hoàn hảo. Ch�
 <h2>Vậy, phải làm gì khi phạm sai lầm?<h2>
 <h3>Bước 1: Giữ bình tĩnh</h3>
 
-Giận giữ, buồn, tuyệt vọng, …. Đặt biệt là hoảng loạn và mất bình tĩnh không bao giờ có thể giải quyết được việc gì cả. Điều đầu tiên là hãy giữ cho mình một cái đầu lạnh, bạn sẽ cần tất cả sức mạnh của não bộ và sự ổn định về cảm xúc để giữ cho mình sự bình tĩnh nhất định để có thể giải quyết mọi chuyện.
+Giận giữ, buồn, tuyệt vọng, …. Đặt biệt là hoảng loạn và mất bình tĩnh không bao giờ có thể giải quyết được việc gì cả.
+<br>
+Điều đầu tiên là hãy giữ cho mình một cái đầu lạnh, bạn sẽ cần tất cả sức mạnh của não bộ và sự ổn định về cảm xúc để giữ cho mình sự bình tĩnh nhất định để có thể giải quyết mọi chuyện.
 <br>
 Bây giờ mới chính là lúc bạn sử dụng hết năng suất bộ não và bản lĩnh của chính mình.
 <br>
 <h3>Bước 2: Chấp nhận sai lầm của chính mình</h3>
-Đừng đổ lỗi cho ai hay bất cứ thứ gì cả. Hãy chấp nhận rằng đó chính là sai lầm của chính bản thân mình. Hãy nhận trách nhiệm về nó, tiếp theo là suy nghĩ mình cần phải làm gì và bạn sẽ học hỏi dần từ nó.
+Đừng đổ lỗi cho ai hay bất cứ thứ gì cả. Hãy chấp nhận rằng đó là sai lầm của chính bản thân mình. Hãy nhận trách nhiệm về nó, tiếp theo là suy nghĩ mình cần phải làm gì và bạn sẽ học hỏi dần từ nó.
 
 <h3>Bước 3: Xin lỗi và nói ra sai lầm của mình</h3>
 Đừng im lặng và bỏ qua sai lầm của chính bản thân mình. Sau khi làm lỗi một việc gì đó, ta thường có xu hướng bỏ qua và bước tới một điều mới. Điều đó là hoàn toàn sai.
@@ -63,12 +65,12 @@ Những câu hỏi mà bạn nên hỏi chính mình sau mọi việc:
 - Và điều quan trọng nhất, mình đã học được những gì từ nó?
 <h3>Bước 6: Chia sẻ</h3>
 
-Cách tốt nhất để học chính là chia sẻ với người khác. Đừng ngại ngùng che giấu lỗi sai của chính mình, những người khác sẽ thấu hiểu với bạn. Và quan trọng là cuối cùng mọi người sẽ đều cùng trưởng thành hơn.
+Cách tốt nhất để học chính là chia sẻ với người khác. Đừng ngại ngùng che giấu lỗi sai của chính mình. Những người khác sẽ thấu hiểu với bạn, và cuối cùng mọi người sẽ đều cùng trưởng thành hơn.
 <br>
 
-Từng bước chân bạn đi trên con đường của chính mình sẽ không bao giờ bằng phẳng cả. Bạn sẽ không biết mình sẽ gặp những gì, vì vậy đừng sợ mắc những sai lầm, điều đáng sợ là sau mỗi lần vấp ngã, mình lại chẳng biết lý do vì sao và mình phải làm gì để không bị ngã lần nữa.
+Từng bước chân bạn đi trên con đường của chính mình sẽ không bao giờ bằng phẳng và suôn sẻ cả. Bạn sẽ không biết mình sẽ gặp những gì, vì vậy đừng sợ mắc những sai lầm. Điều đáng sợ là sau mỗi lần vấp ngã, mình lại chẳng biết lý do vì sao và mình phải làm gì để không bị ngã lần nữa.
 <br>
-Và quan trọng nhất, những người xung quanh yêu thương bạn sẽ không bao giờ bỏ rơi bạn khi bạn biết nhận lỗi và làm những điều đúng đắn một cách chân thành. Những người sẵn sàng tha thứ và ở bên bạn đến cuối cùng là những người bạn nên trân trọng, yêu thương, biết ơn và ghi nhớ rằng đừng bao giờ đánh mất họ thêm một lần nào nữa.
+Và quan trọng nhất, những người yêu thương xung quanh bạn sẽ không bao giờ bỏ rơi bạn khi bạn biết nhận lỗi và làm những điều đúng đắn một cách chân thành. Những người sẵn sàng tha thứ và ở bên bạn đến cuối cùng là những người bạn nên trân trọng, yêu thương, biết ơn và ghi nhớ rằng đừng bao giờ đánh mất họ thêm một lần nào nữa.
 <h4>Remember: You Never Walk Alone.</h4>
 <br>
 <h2>Lời kết</h2>
