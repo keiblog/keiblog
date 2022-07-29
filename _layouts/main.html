@@ -10,6 +10,9 @@ layout: default
       </div>
       <div class="author-name">{{site.author}}</div>
       <p>{{site.about-author}}</p>
+      <a href="{{site.baseurl}}/who-am-I/" style="text-decoration:none;color:black" id="persona">
+        {{site.about-author-description}}
+      </a>
     </div>
   </header> <!-- End Header -->
   <footer>
@@ -29,7 +32,7 @@ layout: default
         {% if site.social-instagram %}
           <li><a href="https://www.instagram.com/{{ site.social-instagram }}/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
         {% else %}
-          <li><a href="https://www.instagram.com/miya.kei.97/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+          <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
         {% endif %}
         {% if site.social-vcso %}
           <li><a href="https://vsco.co/{{ site.social-vcso }}/gallery" target="_blank"><i class="fa fa-camera-retro" aria-hidden="true"></i></a></li>
