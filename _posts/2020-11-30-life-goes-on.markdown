@@ -15,7 +15,7 @@ Dụi mắt và cố tỉnh ngủ khi nhận ra điều đó, mình còn ngỡ l
 <br>
 Tết năm nay, mình phải lần đầu tự cúng giao thừa, đón tết một mình.
 <br>
-`30 tết 11:45` Mình bắt đầu cúng, đốt giấy, bắt đầu nghe tiếng pháo bông từ đâu đó. Nhìn sang nhà đối diện vừa chúc mừng cho nhau, lần đầu tiên mình cảm giác cần ai đó ở bên để nói chuyện đến vậy. Dù mình là một người không thích đám đông hay ồn ào, nhưng phải ở trong căn nhà rất rộng chỉ có một mình ngày tết thì không được vui vẻ cho lắm. 
+`30 tết 11:45` Mình bắt đầu cúng, đốt giấy, bắt đầu nghe tiếng pháo bông từ đâu đó. Nhìn sang nhà đối diện vừa chúc mừng cho nhau, lần đầu tiên mình cảm giác cần ai đó ở bên để nói chuyện đến vậy. Dù mình là một người không thích đám đông hay ồn ào, nhưng phải ở trong căn nhà rất rộng chỉ có một mình ngày tết thì không được vui vẻ cho lắm.
 <br>
 Được 2 tuần, nhà mình đón thêm thành viên mới. Mình cũng bắt đầu nghe đến cụm từ **Covid-19** nhiều hơn.
 <br>
@@ -33,13 +33,13 @@ Time goes by on its own
 Without a single apology
 ```
 <br>
-Và bởi vì thời gian không biết nghỉ ngơi. Thay vì cứ chờ đợi đáp án, ta chỉ còn cách thay đổi để thích nghi với nó. Rất nhiều người đã nói với mình, năm nay là một năm bỏ đi. Nhưng mình thấy rằng, năm sau cũng chẳng khác năm nay là bao, và thay vì cứ ngồi mà trách mắn nó, thì nên học cách để vượt qua. 
+Và bởi vì thời gian không biết nghỉ ngơi. Thay vì cứ chờ đợi đáp án, ta chỉ còn cách thay đổi để thích nghi với nó. Rất nhiều người đã nói với mình, năm nay là một năm bỏ đi. Nhưng mình thấy rằng, năm sau cũng chẳng khác năm nay là bao, và thay vì cứ ngồi mà trách mắn nó, thì nên học cách để vượt qua.
 <br>
 <br>
 Dạo gần đây, mình trở thành người ưa phũ và thích độc thân một mình. Không phải là kén chọn hay gì đâu. Cuộc sống này còn quá nhiều điều phải lo, và mình cũng chưa sẵn sàng hay đủ trưởng thành cho một người bên cạnh. Mặc dù nhiều lúc có hơi cô đơn, nhưng may mắn là mình còn có nhiều người bên cạnh lúc mình cần. Đối với mình, chỉ cần thế là đủ rồi.
 <br>
 
-Và mong rằng, 2021 sẽ mang lại hạnh phúc cho nhiều người. 
+Và mong rằng, 2021 sẽ mang lại hạnh phúc cho nhiều người.
 <br>
 
 <br>
@@ -48,4 +48,3 @@ Và mong rằng, 2021 sẽ mang lại hạnh phúc cho nhiều người.
 <p class="center">
 Spring didn't know to wait
 </p>
- 

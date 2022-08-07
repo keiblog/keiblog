@@ -7,7 +7,7 @@ img: answer.jpg # Add image post (optional)
 tags: [Da nang, raining day 🌧️, myself] # add tag
 ---
 
-Có bao giờ bạn từng nghi ngờ chính mình, tự ti về bản thân, chán ghét mình chưa? Nếu chưa thì đừng dè bỉu mình nhé, vì mình nghĩ đến một lúc nào đó, ai cũng sẽ trải qua. 
+Có bao giờ bạn từng nghi ngờ chính mình, tự ti về bản thân, chán ghét mình chưa? Nếu chưa thì đừng dè bỉu mình nhé, vì mình nghĩ đến một lúc nào đó, ai cũng sẽ trải qua.
 
 Cách đây 8 tháng, từ một con người vui vẻ, năng động và thích giao lưu. Mình bị **Overrated**. 💥
 <br>

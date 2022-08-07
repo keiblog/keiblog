@@ -12,7 +12,7 @@ Cuộn tròn trong chăn, lôi chiếc Macbook được để sẵn lên giườ
 
 Năm nay mình lại được trải qua một mùa Noel một mình đúng nghĩa.
 <br>
-Và từ khi nào, việc dậy sớm với mình lại khó khăn đến vậy. 
+Và từ khi nào, việc dậy sớm với mình lại khó khăn đến vậy.
 <br>
 
 Mình có thói quen tắm vào buổi sáng. Kể cả vài năm trước, vào những ngày tuyết rơi, mình đều tắm trước khi đi học. Mọi người đã từng nghe về một loại bệnh tên là **Rối loạn ám ảnh cưỡng chế** (Obsessive-Compulsive Disorder - OCD) bao giờ chưa, mình bị từ 12 năm về trước, nhưng khá là nhẹ, nên không ảnh hưởng nặng đến cuộc sống. Vậy nên, mỗi buổi sáng trước khi ra đường, mình khá là mệt mỏi để chuẩn bị mọi việc.
@@ -26,7 +26,7 @@ Nhìn lại bản thân một năm vừa qua, mình vừa buồn cũng vừa vui
 
 Ở bên kia thành phố, Noel của cậu thế nào rồi?
 <br>
-Cuối cùng mình cũng nhận ra. 
+Cuối cùng mình cũng nhận ra.
 <br>
 
 Mọi người luôn muốn tẩy trắng đi những lỗi lầm và chỉ muốn cho mọi người thấy được khía cạnh “dễ mến” của mình.
@@ -42,7 +42,7 @@ Mình của hiện tại, đã chấp nhận được bóng tối của chính m
 I'll show you what i got
 I'm not afraid, because that's my existence
 ```
-Mình viết nên blog này, mục đích là để nhìn thấy bản thân thay đổi thế nào so với quá khứ. Và nếu như tìm thấy mảnh ghép của chính mình. Mình cũng không ngại ngần mà chia sẻ, để có thể cho cậu thấy, Lân của nhiều năm trước thế nào. 
+Mình viết nên blog này, mục đích là để nhìn thấy bản thân thay đổi thế nào so với quá khứ. Và nếu như tìm thấy mảnh ghép của chính mình. Mình cũng không ngại ngần mà chia sẻ, để có thể cho cậu thấy, Lân của nhiều năm trước thế nào.
 <br>
 Dù mình của hiện tại khá bướng bỉnh, xấu tính và hay hờn dỗi. Lúc nào cũng thích làm một mình, rất sợ bày tỏ với người khác.
 <br>
