@@ -43,14 +43,17 @@ Mình có một giấc mơ, sống tại một vùng quê, bao quanh là một c
 Đây là ngôn ngữ tình yêu của mình, được ở bên, ủng hộ, bảo vệ và chăm sóc những tình yêu, gia đình nhỏ của chính mình mới chính là hạnh phúc thật sự.
 <br>
 <br>
-Gia đình đã mang lại cho mình vô vàng tình yêu, và mình sẽ luôn mang lại tất cả những tình cảm, điều tốt đẹp nhất đến duy nhất một người mà thôi. Người mà mình luôn xem là cả thế giới, người mà luôn nói lời yêu mỗi ngày, luôn ở bên, dõi theo, lắng nghe, sẻ chia và giúp mình trở nên tốt đẹp nhất.
+Gia đình đã mang lại cho mình vô vàng tình yêu, và mình sẽ luôn mang lại tất cả những tình cảm, điều tốt đẹp nhất đến duy nhất một người mà thôi. Người mà mình luôn xem là cả thế giới, người mà luôn nói lời yêu mỗi ngày, luôn ở bên, dõi theo, lắng nghe, sẻ chia và giúp mình trở nên tốt đẹp nhất. Quan trọng nhất, người sẽ luôn đồng cảm, vị tha và cùng nhau cố gắng thay vì buông bỏ khi gặp bất cứ khó khăn gì đi nữa.
 <br>
 Trải qua tất cả, đúng là mọi thứ đều có lý do của nó. Mình đã nhận ra được những điều quan trọng nhất với chính mình, nhận ra được hạnh phúc thật sự là gì. Mình thật may mắn vì có thể ngộ nhận ra những điều quan trọng với đời người dù mình còn rất trẻ.
 <br>
 <br>
+Gửi cậu - người bạn đời tương lai. Mình sẽ hoàn thiện bản thân, trở thành phiên bản tốt nhất của chính mình rồi sẽ đi tìm kiếm cậu nhé. Mong là lúc đó, mình có thể tự tin rằng sẽ mang lại tất cả bình yên, hạnh phúc và những điều tốt đẹp nhất dành tặng cho cậu.
+<br>
+<br>
 Cơ duyên, định mệnh, tất cả chỉ là những biến số không lường trước trong cuộc sống.
 <br>
-Tương lai của mình, mình sẽ không để ai quyết định nó, dù cho có là thần thánh phương nào.
+Tương lai của mình, mình sẽ không để ai quyết định nó.
 <br>
 Hạnh phúc của mình, mình sẽ tự cố gắng để nắm lấy, cho dù có khó khăn thế nào đi chăng nữa.
 <br>
@@ -59,5 +62,5 @@ Hạnh phúc của mình, mình sẽ tự cố gắng để nắm lấy, cho dù
 
 ![Happiness2](/assets/img/happiness-2.jpeg#w100)
 <p class="center">
-Lân à, đã đến lúc cậu cần phải đứng dậy rồi.
+Đừng sợ vì mình đã lựa chọn sai, hãy sợ là mình đã KHÔNG cố gắng hết sức mình.
 </p>
