@@ -6,11 +6,11 @@ description: 'Chỉ mong một đời bình an và hạnh phúc.'
 img: happiness.jpeg # Add image post (optional)
 tags: [Da nang, myself, happiness] # add tag
 ---
-26 tuổi, ở độ tuổi những người bạn cùng lứa đang loay hoay về sự nghiệp, thì mình đã có được những thành tựu nhỏ trong 5 năm làm việc.
+24 tuổi, ở độ tuổi những người bạn cùng lứa đang loay hoay về sự nghiệp, thì mình đã có được những thành tựu nhỏ trong 5 năm làm việc.
 <br>
 Kalanithi - một trong những người mình đem lòng ngưỡng mộ. Ông đã đạt đến đỉnh cao trong ngành giải phẫu thần kinh, đã dạy cho mình rằng nên sống trọn vẹn từng ngày, vì cuộc đời, quả thật, quá ư ngắn ngủi!
 <br>
-Mình đã từng đạt đến vị trí khá quan trọng ở tuổi 24, loay hoay trong vòng 2 năm để rồi từ bỏ tất cả chỉ vì một câu hỏi.
+Mình đã từng đạt đến vị trí khá quan trọng ở tuổi 22, loay hoay trong vòng 2 năm để rồi từ bỏ tất cả chỉ vì một câu hỏi.
 <br>
 ```
 Này Lân à, mình có đang hạnh phúc không?
