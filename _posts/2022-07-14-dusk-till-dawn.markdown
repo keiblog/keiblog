@@ -77,8 +77,7 @@ Và quan trọng nhất, những người yêu thương xung quanh bạn sẽ kh
 29/06 - 29/07, đúng một tháng sau incidents của chính bản thân mình. Mình đã đủ bình tĩnh để nhìn nhận lại mọi việc, chấp nhận lỗi sai của chính mình, học hỏi từ nó, trưởng thành hơn, và làm những gì mình cảm thấy là đúng đắn.
 <br>
 <br>
-- Cảm ơn Anzu54hz vì đã luôn ở bên, đồng cảm và ủng hộ mình, dõi theo, tha thứ và bao dung mình. Tất cả những gì mình làm đều không đủ, mình sẽ luôn làm những điều tốt đẹp nhất.
-<br>
+
 - Cảm ơn Navindren, Chee, vì đã luôn ở bên mình trong những giây phút quan trọng nhất. (Down server, Support,….)
 <br>
 - Cảm ơn alienxp03 và Team SRE vì đã hỗ trợ mình hết mình, những gì mọi người làm mình sẽ luôn ghi nhớ.
