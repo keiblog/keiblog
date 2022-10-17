@@ -4,7 +4,7 @@ title: "Polaris"
 date: 2022-10-16 00:00:00 +0700
 description: 'I am as constant as the northern star'
 img: polaris.jpeg # Add image post (optional)
-tags: [Da nang, myself, healing] # add tag
+tags: [Da nang, myself, polaris] # add tag
 ---
 
 
@@ -23,7 +23,7 @@ Nhưng cậu biết không, trước đây mình luôn để trống lịch vào
 Mình sẽ đi tản bộ một mình này, mua sắm những món đồ mà mình thích này, thưởng thức những món ăn mà mình luôn muốn được ăn một lần nữa này. Và quan trọng là, được lắng nghe tâm tư từ chính bản thân mình, tặng mình những khoảng thời gian bình yên nhất.
 <br>
 <br>
-Tuổi 25, dù vẫn còn đó rất nhiều khó khăn nhưng mình vui vì sau một tuần dài làm việc, mình vẫn có thể đi bộ, vẫn có thể chơi  những bản nhạc, vẫn có thể gặp gỡ những mối quan hệ chất lượng, và có thời gian dành cho chính mình.
+Tuổi 25, dù vẫn còn đó rất nhiều khó khăn nhưng mình vui vì sau một tuần dài làm việc, mình vẫn có thể đi bộ, vẫn có thể chơi  những bản nhạc, vẫn có thể gặp gỡ những mối quan hệ chất lượng, và có thời gian dành cho riêng mình.
 <br>
 <br>
 
@@ -49,9 +49,9 @@ Với anh ấy, anh chỉ muốn được làm những điều mình thích, s�
 <br>
 Vậy...tại sao anh ấy phải sống theo lời nói của người khác?
 
-Có một sự thật là con người hay bất cứ con vật nào khác đều là sinh vật sống, và sẽ không bao giờ hoàn hảo.
+Có một sự thật là con người hay bất cứ con vật nào khác đều là sinh vật sống - sẽ không bao giờ hoàn hảo.
 <br>
-Tại sao ta lại đi tìm một người hoàn hảo thay vì là một người hợp với chính mình, hay là mỗi khi nhìn vào điều không tốt của người ấy, ta lại cau có và khó chịu mà không phải nở một nụ cười và khuyên nhủ chân thành?
+Tại sao ta lại luôn đi tìm một người hoàn hảo thay vì là một người phù hợp với chính mình, hay là mỗi khi nhìn vào điều không tốt của người ấy, ta lại cau có và khó chịu mà không phải nở một nụ cười và khuyên nhủ một cách chân thành?
 <br>
 
 Tình yêu hay tình bạn nhiều khi chỉ là một khoảnh khắc vụt qua trong đời mà thôi. Vào ngày đó, giờ đó, phút đó, cậu gặp được người mà ngay ánh nhìn đầu tiên, cậu đã cảm thấy sẽ muốn bên nhau, trải qua những buồn vui của cuộc đời. Thế là được.
