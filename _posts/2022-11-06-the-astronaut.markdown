@@ -31,7 +31,7 @@ Cách đây vài tuần, mình có đọc một cuốn tiểu thuyết khá là 
 
 Người chị cả **Meg** với khả năng giao tiếp cùng tấm lòng vô cùng nhân hậu, dịu dàng.
 <br>
-Chị thứ **Jo** mang trong mình tính cách mạnh mẽ, có chí hướng và giỏi viết lách văn chường.
+Chị thứ **Jo** mang trong mình tính cách mạnh mẽ, có chí hướng và giỏi viết lách văn chương.
 <br>
 Chị kế **Amy** lanh lợi, ganh đua và giỏi hội hoạ.
 <br>
@@ -47,9 +47,9 @@ Phân đoạn **Laurie** tỏ tình và bị từ chối bởi lòng tự tôn, 
 
 **Laurie** trở nên buồn chán, thả mình vào những cuộc chơi, mãi cho đến khi anh nhận ra mình phải thay đổi bởi **Amy**, người đã luôn dõi theo mình, thúc đẩy và làm cho anh trở nên tốt hơn.
 <br>
-Ngược lại, **Jo** lại cảm thấy đau lòng, hối hận vì đã từ chối **Laurie** một cách bốc đồng. Luôn thu mình lại một góc, gửi những tấm thư vu vơ và chờ đợi.
+Ngược lại, **Jo** lại cảm thấy đau lòng, hối hận vì đã từ chối **Laurie** một cách bốc đồng. Luôn thu mình lại một góc, gửi những tấm thư vu vơ và đợi chờ một mình.
 <br>
-Cuối cùng, **Laurie** thoát khỏi quá khứ, nắm tay **Amy** và nói rằng "Tớ không thể mất người phụ nữ của mình vào tay người khác được"
+Đến cuối cùng, **Laurie** cũng thoát khỏi quá khứ, đối mặt và nói với **Jo** rằng "Tớ không thể mất **Amy** - người phụ nữ của đời mình vào tay người khác được"
 <br>
 <br>
 Một cuốn tiểu thuyết ngắn nhưng mang rất nhiều ý nghĩa, cậu có phải là **Jo** - luôn chính kiến một cách cứng nhắc, mạnh mẽ nhưng cũng vô cùng yếu mềm. Hay **Laurie** - sống hết mình với tình cảm của chính mình, tự tay nắm lấy số phận, đổi thay để trở nên tốt hơn thay vì luôn chờ đợi và đau đớn?
@@ -58,10 +58,10 @@ Một cuốn tiểu thuyết ngắn nhưng mang rất nhiều ý nghĩa, cậu c
 
 Nhưng dù thế nào đi nữa, cậu cũng sẽ yêu và được yêu mà thôi. Cậu sẽ tìm thấy một người nào đó, cưới và có một gia đình nhỏ với họ. 
 <br>
-Chỉ là...trải qua mọi cảm xúc, ngắm nhìn những người ngỡ như là định mệnh của mình lần lượt rời đi. Cậu mới thấy rằng, tự mình nắm lấy tình cảm, níu giữ vận mệnh của đời mình mới là điều quan trọng nhất.
+Chỉ là...trải qua mọi cảm xúc, ngắm nhìn những người ngỡ như là định mệnh của mình lần lượt rời đi. Cậu mới thấy rằng tự mình nắm lấy tình cảm, níu giữ vận mệnh của đời mình mới là điều quan trọng nhất.
 <br>
 <br>
-Cũng như câu nói **Cho đi chính là nhận lại**. Mình lại thấy, đây mới là câu nói đúng nhất.
+Cũng như câu nói **Cho đi chính là nhận lại**. Mình lại thấy, đây mới là câu nói đầy đủ.
 ```
 Cho đi chính là nhận lại, nhưng là đến từ cả hai.
 ```
@@ -71,13 +71,13 @@ Cho đi chính là nhận lại, nhưng là đến từ cả hai.
 <br>
 Mình tin rằng, mỗi người đều có trong mình một hành tinh. Và ta chính là **Phi Hành Gia** - **The Astronaunt**, du hành đến những hành tinh xung quanh mình. 
 <br>
-Có những nơi ta chỉ đến để tham quan, có những nơi ta sẽ chăm sóc rồi bỏ đi. Nhưng cuối cùng, ta cũng sẽ dừng chân tại một hành tinh nào đó, chỉ bởi vì đã đem lòng yêu say đắm và sẵn sàng mang những điều tốt đẹp nhất với nó.
+Có những nơi ta chỉ đến để tham quan, có những nơi ta sẽ chăm sóc rồi rời đi. Nhưng cuối cùng, ta cũng sẽ dừng chân tại một hành tinh nào đó, chỉ vì đem lòng yêu say đắm và sẵn sàng mang những điều tốt đẹp nhất với nó.
 <br>
 <br>
 Dù có thế nào đi nữa, hãy nhớ là.
 <br>
 Có những nơi bỏ đi rồi mới cảm thấy hối tiếc. 
-Nhưng cũng có những nơi sau khi rời đi ta mới biết đáng ra nên từ bỏ từ lâu rồi...
+Nhưng cũng có những nơi sau khi rời đi ta mới biết rằng, đáng ra nên từ bỏ từ lâu rồi...
 
 ![Coffession](/assets/img/the-astronaunt-3.png#w100)
 <br>
