@@ -3,7 +3,7 @@ layout: post
 title: "The Astronaut"
 date: 2022-11-06 00:00:00 +0700
 description: 'Like that asteroid drifting by without a destination'
-img: the-astronaut.jpeg
+img: the-astronaut.webp
 tags: [Da nang, myself, the Astronaunt] # add tag
 ---
 
