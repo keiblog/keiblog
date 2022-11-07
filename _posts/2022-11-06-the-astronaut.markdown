@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Astronaut"
-date: 2022-11-06 00:00:00 +0700
+date: 2022-11-06 00:18:00 +0700
 description: 'Like that asteroid drifting by without a destination'
 img: the-astronaut.webp
 tags: [Da nang, myself, the Astronaunt] # add tag
@@ -69,7 +69,7 @@ Cho đi chính là nhận lại, nhưng là đến từ cả hai.
 <br>
 <br>
 <br>
-Mình tin rằng, mỗi người đều có trong mình một hành tinh. Và ta chính là **Phi Hành Gia** - **The Astronaunt**, du hành đến những hành tinh xung quanh mình. 
+Mình tin rằng, mỗi người đều có trong mình một hành tinh. Và ta chính là **Phi Hành Gia** - **The Astronaut**, du hành đến những hành tinh xung quanh mình. 
 <br>
 Có những nơi ta chỉ đến để tham quan, có những nơi ta sẽ chăm sóc rồi rời đi. Nhưng cuối cùng, ta cũng sẽ dừng chân tại một hành tinh nào đó, chỉ vì đem lòng yêu say đắm và sẵn sàng mang những điều tốt đẹp nhất với nó.
 <br>
