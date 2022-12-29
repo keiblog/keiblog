@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "My Sea"
+title: "The Sea"
 date: 2022-12-29 00:18:00 +0700
 description: 'Thanh xuân ngỡ như là một cái nhớp mắt, chợt nhận ra thì đã đi được một nửa đời người.'
-img: my-sea.jpeg
-tags: [Da nang, myself, mysea] # add tag
+img: the-sea.jpeg
+tags: [Da nang, myself, thesea] # add tag
 ---
 
 
@@ -22,7 +22,7 @@ Mình thì không làm gì đặc biệt cả, chỉ ghé thăm tiệm trà thâ
 Con người ta không phải cứ ở một mình, hoặc sống một mình tại một nơi thật xa, trên hòn đảo hoang nào đó mới cô đơn. Mà nhiều khi, cô đơn nhất lại là khi người ta ở giữa đám đông, ở giữa thành phố nhộn nhịp, nhưng nhận ra mình không có một ai để gửi gắm tấm lòng này. Đà Nẵng tuy nhỏ mà lại to, to đến nỗi người ta  vẫn chưa tìm được thấy nhau.
 <br>
 
-![Mysea1](/assets/img/my-sea-1.jpg#w100)
+![Thesea1](/assets/img/the-sea-1.jpg#w100)
 <br>
 Cách đây vài ngày, mình đã bốc được lá The World.
 <br>
@@ -45,10 +45,10 @@ Bởi vì...mọi sự tử tế, đồng cảm của một người hôm nay đ
 <br>
 Không còn chạy đua với thời gian, gồng mình lên để có thể đi đến tất cả mọi nơi.
 <br>
-Mình dành hầu hết thời gian để đi dạo, đến những nơi mình thích, bất chợt ghé vào những nơi mà muốn. Cho bản thân những khoảng thời gian bình yên, thoải mái nhất.
+Mình dành hầu hết thời gian để đi dạo, đến những nơi mình thích, bất chợt ghé vào những nơi mà mình muốn. Cho bản thân những khoảng thời gian bình yên, thoải mái nhất.
 <br>
 
-![Mysea1](/assets/img/my-sea-3.jpeg#w100)
+![Thesea1](/assets/img/the-sea-3.jpeg#w100)
 <br>
 Có những người chỉ biết bạn qua story mà bạn đăng, hay những tấm hình chỉnh chu trên Facebook. 
 <br>
@@ -74,7 +74,7 @@ Cảm ơn Nhâm Dần, cảm ơn cậu.
 Đúng là không phải tất cả những người bước vào cuộc đời mình đều có trách nhiệm làm mình hạnh phúc. Cậu đến để dạy cho mình một bài học về chính bản thân mình. Chỉ là giữa triệu người, mình chỉ là người nhìn cậu lâu hơn một chút mà thôi.
 <br>
 
-![Mysea1](/assets/img/my-sea-2.jpeg#w100)
+![Thesea2](/assets/img/the-sea-2.jpeg#w100)
 <br>
 Nhưng rồi...bạn cũng sẽ gặp được thôi, người mà bạn sẵn sàng dừng lại để ngắm nhìn, sẵn sàng để mang lại những điều tốt đẹp nhất.
 <br>
